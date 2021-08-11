@@ -11,42 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Arch. University of Colorado, 2012
+* Ph.D in Interactive Art & Technology, Simon Fraser University (SFU), 2021 (expected)
+* Topic: Adaptive and Learning-based Formation Control of Swarm Robots
 
-Work experience
+Areas of Specialization
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+• Machine Learning (ML) & Computer Vision (CV)<br /> 
+• Multi-robot Control (Autonomous Navigation, Motion Planning)<br />  
+• Human-Swarm Interaction (HSI)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Programming: MATLAB, Simulink, Python<br /> 
+ML frameworks: TensorFlow, PyTorch, Keras
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Research
 ======
-  {April 2016-April 2021}: Lecture & Sessional Lecturer<br />
+  {April 2016-April 2021}: Research Assistant<br />
+  Metacreation Lab for Creative AI
   Simon Fraser University (SFU)<br />
+  Senior Supervisor: Prof. Philippe Pasquier, Co Supervisor: Prof. Steve DiPaola<br />
+  • Motion Planning, Trajectory Tracking & Autonomous Navigation of  adrotor UAVs<br /> 
+  • Flocking, Foraging, Stigmergy Formation of nonholonomic Robots
   
+  {March -June 2013}: Visiting Scholar & Research Assistant<br />
+  CorrellLab, Computer Science Department<br />
+  University of Colorado at Boulder (CU)<br /> 
+  Supervisor: Prof. Nikolaus Correll
+  • Swarm control of DROPLETS robots
+  • THERMOCHROMIC SKIN for a so  Robot that can camou age in di erent environments
   
 Teaching
 ======
