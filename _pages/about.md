@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My research focuses on multi-robot systems and deep reinforcement learning at the intersection of control theory and machine learning.
+My research focuses on multi-robot systems at the intersection of control theory and deep reinforcement learning.
 
 Interests
 ------
