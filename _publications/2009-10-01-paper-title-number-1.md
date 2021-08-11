@@ -11,3 +11,5 @@ Our intention behind the Liminal Scape is to create an exploratory AI system in 
 to know what is the overall experience of the users while interacting with the system. We recognized the potential of artificial creativity for creating novel artworks supported via interactive environments in the future. 
 
 Recommended citation: Salimi et al. (2020). "Liminal Scape, an interactive visual installation with expressive AI" <i>in Proceedings of the 26th International Symposium on Electronic Art (ISEA), 2020.
+
+Presentation: Machinic Sense & Sensibility - Expressive AI, ISEA2020: Why Sentience? International Symposium on Electronic Art (ISEA), 2020.
