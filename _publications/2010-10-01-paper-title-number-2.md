@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Paper Title Number 3"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2021-07-14
+venue: '2nd International Symposium on Machine Learning and Art (Art Machine 2)'
+M-x paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+[Paper]
+(https://github.com/mahsoosalimi/mahsoosalimi.github.io/blob/master/files/Exploiting%20Swarm%20Aesthetics%20in%20Sound%20Art.pdf)
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+We review current robotic interventions in sound art and discuss the characteristics of similar works. Then we introduce Liminal Tones (A / Autumn Swarm) – a series of experimental sound compositions made by multiple mechanical objects that sync and swarm together, and generate noise music. Our goal is to investigate swarm aesthetics, and collective and emergent behaviors to create chaotic and patterned sounds. 
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Salimi, M., Pasquier, P. (2021). "Exploiting Swarm Aesthetics in Sound Art" <i>in Proceedings of the 2nd International Symposium on Machine Learning and Art (Art Machine 2), 2021.
