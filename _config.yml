@@ -88,7 +88,7 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=xLKRl9MAAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Mahsoo-Salimi"
+  researchgate     : # https://www.researchgate.net/profile/Mahsoo-Salimi
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/mahsoo-salimi/"
+  linkedin         : "https://www.linkedin.com/in/mahsoo-salimi"
   orcid            : # http://orcid.org/yourorcidurl
   pinterest        :
   soundcloud       :
