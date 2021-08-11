@@ -12,5 +12,5 @@ My research focuses on multi-robot systems and deep reinforcement learning at th
 
 Interests
 ------
-Distributed Control & Human Swarm Interaction
+Distributed Control & Human Swarm Interaction<br /> 
 Machine Learning, Computer Vision
