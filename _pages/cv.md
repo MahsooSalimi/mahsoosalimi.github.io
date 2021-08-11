@@ -42,18 +42,22 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Research
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {April 2016-April 2021}: Lecture & Sessional Lecturer<br />
+  Simon Fraser University (SFU)<br />
+  
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {April 2016-April 2021}: Lecture & Sessional Lecturer<br />
+  Simon Fraser University (SFU)<br />
+  Taught 10 courses, working with 14 TAs & 720 UG students.
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  {Jan 2016-April 2019}: Co-Instructor<br />
+  Simon Fraser University (SFU)<br />
+  Taught 6 courses, working with 5 co-instructors & 805 UG students.  
+  
+  {April 2015-Jan 2020}: Teaching Assistant<br />
+  Simon Fraser University (SFU)<br />
+  Taught 16 courses, working with 8 instructors & 1661 UG students.
