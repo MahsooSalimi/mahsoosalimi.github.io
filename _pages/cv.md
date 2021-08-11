@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -18,7 +17,7 @@ Ph.D in Interactive Art & Technology, Simon Fraser University (SFU), 2021 (expec
 Areas of Specialization
 ======
 Machine Learning (ML) & Computer Vision (CV)<br /> 
-Multi-robot Control (Autonomous Navigation, Motion Planning)<br />  
+Multi-robot Control (Autonomous Navigation, Motion Planning)<br />
 Human-Swarm Interaction (HSI)
 
 Skills
