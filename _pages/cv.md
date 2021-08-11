@@ -37,8 +37,8 @@ Research
   {March -June 2013}: Visiting Scholar & Research Assistant<br />
   CorrellLab, Computer Science Department<br />
   University of Colorado at Boulder (CU)<br /> 
-  Supervisor: Prof. Nikolaus Correll
-  • Swarm control of DROPLETS robots
+  Supervisor: Prof. Nikolaus Correll<br />
+  • Swarm control of DROPLETS robots<br />
   • THERMOCHROMIC SKIN for a so  Robot that can camou age in di erent environments
   
 Teaching
