@@ -1,7 +1,7 @@
 ---
 title: "Exploiting Swarm Aesthetics in Sound Art"
 collection: publications
-date: 2021-07-14
+date: 2021-06-10
 venue: '2nd International Symposium on Machine Learning and Art (Art Machine 2)'
 M-x paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 ---
