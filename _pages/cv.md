@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* M.Arch. University of Colorado, 2012
-* Ph.D in Interactive Art & Technology, Simon Fraser University (SFU), 2021 (expected)
-* Topic: Adaptive and Learning-based Formation Control of Swarm Robots
+M.Arch. University of Colorado, 2012<br /> 
+Ph.D in Interactive Art & Technology, Simon Fraser University (SFU), 2021 (expected)<br /> 
+• Topic: Adaptive and Learning-based Formation Control of Swarm Robots
 
 Areas of Specialization
 ======
-• Machine Learning (ML) & Computer Vision (CV)<br /> 
-• Multi-robot Control (Autonomous Navigation, Motion Planning)<br />  
-• Human-Swarm Interaction (HSI)
+Machine Learning (ML) & Computer Vision (CV)<br /> 
+Multi-robot Control (Autonomous Navigation, Motion Planning)<br />  
+Human-Swarm Interaction (HSI)
 
 Skills
 ======
