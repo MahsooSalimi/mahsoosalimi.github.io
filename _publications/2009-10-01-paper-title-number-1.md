@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Liminal Scape, an interactive visual installation with expressive AI"
 collection: publications
 date: 2020-10-13
 venue: '26th International Symposium on Electronic Art (ISEA)'
