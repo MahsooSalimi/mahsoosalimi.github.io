@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Liminal Tones: Swarm Aesthetics and Materiality in Sound Art"
 collection: publications
-date: 2020-10-13
-venue: '26th International Symposium on Electronic Art (ISEA)'
+date: 2021-07-14
+venue: '12th International Conference on Swarm Intelligence (ICSI21)'
 M-x paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 ---
-[Paper]
-(https://github.com/mahsoosalimi/mahsoosalimi.github.io/blob/master/files/Liminal%20Tones-%20Swarm%20Aesthetics%20and%20Materiality%20in%20Sound%20Art.pdf)
+[Paper](https://github.com/mahsoosalimi/mahsoosalimi.github.io/blob/master/files/Liminal%20Tones-%20Swarm%20Aesthetics%20and%20Materiality%20in%20Sound%20Art.pdf)
 
-Our intention behind the Liminal Scape is to create an exploratory AI system in the form of an installation to present abstract emotional paintings, in which users will reveal and explore their affective states. We aim to create expressive/emotional experience, and are curious
-to know what is the overall experience of the users while interacting with the system. We recognized the potential of artificial creativity for creating novel artworks supported via interactive environments in the future. 
+The application of swarm aesthetic in music composition is not new. Artistic swarm application has resulted in complex soundscapes and musical com- positions. However, sound composition using physical swarm agents has not been extensively studied. Using an experimental approach, we create a series of sound textures know as Liminal Tones (B/Rain Dream) based on swarming behaviours. We study the influence of different materials and emergent patterns and evaluate the acoustic properties of different materials such as wood, ceramic or granite, and effect of imperfections of the physical agents on the overall aesthetic quality. Finally, we consider the historical and theoretical foundation of swarm music, the role of materiality and actions in sound, and challenge the traditional perception of sound as an immaterial art form.
 
-Recommended citation: Salimi et al. (2020). "Liminal Scape, an interactive visual installation with expressive AI" <i>in Proceedings of the 26th International Symposium on Electronic Art (ISEA), 2020.
+Recommended citation: Salimi et al. (2021). "Liminal Tones: Swarm Aesthetics and Materiality in Sound Art" <i>in Proceedings of the 12th International Conference on Swarm Intelligence (ICSI21), 2021
