@@ -39,7 +39,7 @@ Research
   University of Colorado at Boulder (CU)<br /> 
   Supervisor: Prof. Nikolaus Correll<br />
   • Swarm control of DROPLETS robots<br />
-  • THERMOCHROMIC SKIN for a so  Robot that can camou age in di erent environments
+  • THERMOCHROMIC SKIN for a soft robot that can camouflage in different environments
   
 Teaching
 ======
