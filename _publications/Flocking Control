@@ -5,8 +5,9 @@ date: 2021-09-10
 venue: 'International Journal of Robotics and Autonomous Systems'
 M-x paperurl: 'hhttps://github.com/mahsoosalimi/mahsoosalimi.github.io/blob/master/files/Liminal%20Tones-%20Swarm%20Aesthetics%20and%20Materiality%20in%20Sound%20Art.pdf'
 ---
-
 <br />
+
+
 Flocking formation of unmanned aerial vehicles (UAVs) is an open challenge due to kinematics complexity and uncertainties in complex environments. In this paper, the UAV 
 flocking control problem is formulated as a partially observable Markov decision process (POMDP) and solved by deep reinforcing learning. In particular, we consider a 
 leader-follower configuration, where consensus among all UAVs is used to train a shared control policy, and each UAV performs actions based on the local information it 
