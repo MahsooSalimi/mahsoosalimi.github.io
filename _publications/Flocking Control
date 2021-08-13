@@ -1,11 +1,10 @@
 ---
 title: "Deep Reinforcement Learning for Flocking Control of UAVs in Complex Environments"
 collection: publications
-date: 2021-08-10
+date: 2021-09-10
 venue: 'International Journal of Robotics and Autonomous Systems'
 M-x paperurl: 'hhttps://github.com/mahsoosalimi/mahsoosalimi.github.io/blob/master/files/Liminal%20Tones-%20Swarm%20Aesthetics%20and%20Materiality%20in%20Sound%20Art.pdf'
 ---
-M-x [Paper](https://github.com/mahsoosalimi/mahsoosalimi.github.io/blob/master/files/Liminal%20Tones-%20Swarm%20Aesthetics%20and%20Materiality%20in%20Sound%20Art.pdf)<br />
 
 
 Flocking formation of unmanned aerial vehicles (UAVs) is an open challenge due to kinematics complexity and uncertainties in complex environments. In this paper, the UAV 
