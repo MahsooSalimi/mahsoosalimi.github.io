@@ -1,1 +1,21 @@
+---
+title: "Deep Reinforcement Learning for Flocking Control of UAVs in Complex Environments"
+collection: publications
+date: 2021-08-10
+venue: 'International Journal of Robotics and Autonomous Systems'
+M-x paperurl: 'hhttps://github.com/mahsoosalimi/mahsoosalimi.github.io/blob/master/files/Liminal%20Tones-%20Swarm%20Aesthetics%20and%20Materiality%20in%20Sound%20Art.pdf'
+---
+M-x [Paper](https://github.com/mahsoosalimi/mahsoosalimi.github.io/blob/master/files/Liminal%20Tones-%20Swarm%20Aesthetics%20and%20Materiality%20in%20Sound%20Art.pdf)<br />
+
+
+Flocking formation of unmanned aerial vehicles (UAVs) is an open challenge due to kinematics complexity and uncertainties in complex environments. In this paper, the UAV 
+flocking control problem is formulated as a partially observable Markov decision process (POMDP) and solved by deep reinforcing learning. In particular, we consider a 
+leader-follower configuration, where consensus among all UAVs is used to train a shared control policy, and each UAV performs actions based on the local information it 
+collects. In addition, to avoid collision among UAVs and guarantee flocking and navigation, a reward function is added with the global flocking maintenance, mutual reward, 
+and a collision penalty. We adapt deep deterministic policy gradient (DDPG) with centralized training and decentralized execution to obtain the flocking control policy using 
+actor-critic networks and a global state space matrix. The simulation results demonstrate that the trained optimal policy converges to flocking formation without any 
+parameter tuning and has good generalization ability for different numbers of UAVs.<br />
+<br />
+Recommended citation: Salimi, M., Pasquier, P. (2021). "Deep Reinforcement Learning for Flocking Control of UAVs in Complex Environments" <i>Submitted to the Proceedings 
+of the the International Journal of Robotics and Autonomous Systems, 2021.<br />
 
