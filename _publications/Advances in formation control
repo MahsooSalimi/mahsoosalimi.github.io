@@ -1,0 +1,20 @@
+---
+title: "Advances in formation control of multi-robot systems using reinforcement learning and neural networks"
+collection: publications
+date: 2021-09-05
+venue: 'International Journal of Dynamics and Control'
+M-x paperurl: 'https://github.com/mahsoosalimi/mahsoosalimi.github.io/blob/master/files/Liminal%20Tones-%20Swarm%20Aesthetics%20and%20Materiality%20in%20Sound%20Art.pdf'
+---
+
+
+The problem of formation in multi-robot systems has broad applications and gained considerable recognition in the past two decades among researchers. The purpose of this 
+paper is to provide an overview of a new concept of learning-based control using adaptive and bio-inspired techniques in multi-robot systems. We survey recent advances in 
+this research area to identify the strengths, limitations, open challenges, and research frontiers. We review the critical issues in formation control with a focus on the 
+primary control strategies of different tasks (i.e., trajectory tracking, collision avoidance, etc.) In addition, we provide a comparison of the state-of-the-art in 
+multi-robot formation and classify different approaches of learning-based control using artificial neural networks and bio-inspired techniques. For each approach, we analyze 
+how formation can be done in different scenarios, which are considered as instances of the formation control problem, i.e., path planning, and in various application domains,
+including exploration, object transportation, target tracking, etc. Finally, we discuss open challenges and offer a range of possible research directions. The goal of this 
+study is to provide guidance for future research on employing learning-based control in multi-robot systems.<br />
+<br />
+Recommended citation: Salimi, M., Pasquier, P. (2021). "Advances in formation control of multi-robot systems using reinforcement learning and neural networks" <i>Submitted 
+to the 2021 Proceedings of the International Journal of Dynamics and Control, 2021.<br />
