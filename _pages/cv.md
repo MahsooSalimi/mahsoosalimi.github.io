@@ -31,15 +31,15 @@ Research
   Metacreation Lab for Creative AI
   Simon Fraser University (SFU)<br />
   Senior Supervisor: Prof. Philippe Pasquier, Co Supervisor: Prof. Steve DiPaola<br />
-  • Motion Planning, Trajectory Tracking & Autonomous Navigation of  adrotor UAVs<br /> 
+  • Motion Planning, Trajectory Tracking & Autonomous Navigation of Quadrotor UAVs<br /> 
   • Flocking, Foraging, Stigmergy Formation of nonholonomic Robots
   
   {March -June 2013}: Visiting Scholar & Research Assistant<br />
   CorrellLab, Computer Science Department<br />
   University of Colorado at Boulder (CU)<br /> 
   Supervisor: Prof. Nikolaus Correll<br />
-  • Swarm control of DROPLETS robots<br />
-  • Thermochromic Skin for a soft robot that can camouflage in different environments
+  • Swarm Control of DROPLET Robots<br />
+  • Soft Robotics (camouflaging in different environments)
   
 Teaching
 ======
