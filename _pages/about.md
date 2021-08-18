@@ -13,5 +13,6 @@ I believe in collaboration, humility, and forward-thinking in a team for fast-pa
 
 Interests
 ------
-Distributed Control & Human Swarm Interaction<br /> 
-Machine Learning, Computer Vision
+Swarm Robotics<br />
+Machine Learning, Computer Vision<br />
+Distributed Systems & Human Swarm Interaction (HSI)
