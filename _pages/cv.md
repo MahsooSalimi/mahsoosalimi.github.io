@@ -25,7 +25,13 @@ Skills
 Programming: MATLAB, Simulink, Python<br /> 
 ML frameworks: TensorFlow, PyTorch, Keras
 
-Research
+Personal Research
+======
+{May 2020-present}: Founder and CEO, Sentient
+  • Swarm Control of Quadrotor UAVs using Deep Reinforcement Learning
+  • Multispectral Segmentation using Deep Learning
+
+PhD Research
 ======
   {April 2016-April 2021}: Research Assistant<br />
   Metacreation Lab for Creative AI
