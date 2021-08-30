@@ -27,36 +27,36 @@ ML frameworks: TensorFlow, PyTorch, Keras
 
 Personal Research
 ======
-{May 2020-present}: Founder and CEO, Sentient<br /> 
-  • Swarm Control of Quadrotor UAVs using Deep Reinforcement Learning<br />
-  • Multispectral Segmentation using Deep Learning
+ {May 2020-present}: Founder and CEO, Sentient<br />
+ Vancouver, Canada<br />
+ • Swarm Control of Quadrotor UAVs using Deep Reinforcement Learning<br />
+ • Multispectral Segmentation using Deep Learning
 
 PhD Research
 ======
-  {April 2016-April 2021}: Research Assistant<br />
-  Metacreation Lab for Creative AI <br /> 
-  Simon Fraser University (SFU)<br />
-  Senior Supervisor: Prof. Philippe Pasquier, Co Supervisor: Prof. Steve DiPaola<br />
-  • Motion Planning, Trajectory Tracking & Autonomous Navigation of Quadrotor UAVs<br /> 
-  • Flocking, Foraging, Stigmergy Formation of nonholonomic Robots
+ {April 2016-April 2021}: Research Assistant<br />
+ Metacreation Lab for Creative AI, Simon Fraser University (SFU)<br />
+ Senior Supervisor: Prof. Philippe Pasquier, Co Supervisor: Prof. Steve DiPaola<br />
+ • Motion Planning, Trajectory Tracking & Autonomous Navigation of Quadrotor UAVs<br /> 
+ • Flocking, Foraging, Stigmergy Formation of nonholonomic Robots
   
-  {March -June 2013}: Visiting Scholar & Research Assistant<br />
-  CorrellLab, Computer Science Department<br />
-  University of Colorado at Boulder (CU)<br /> 
-  Supervisor: Prof. Nikolaus Correll<br />
-  • Swarm Control of DROPLET Robots<br />
-  • Soft Robotics (camouflaging in different environments)
+ {March -June 2013}: Visiting Scholar & Research Assistant<br />
+ CorrellLab, Computer Science Department<br />
+ University of Colorado at Boulder (CU)<br /> 
+ Supervisor: Prof. Nikolaus Correll<br />
+ • Swarm Control of DROPLET Robots<br />
+ • Soft Robotics (camouflaging in different environments)
   
 Teaching
 ======
-  {April 2016-April 2021}: Lecture & Sessional Lecturer<br />
-  Simon Fraser University (SFU)<br />
-  Taught 10 courses, working with 14 TAs & 720 UG students.
+ {April 2016-April 2021}: Lecture & Sessional Lecturer<br />
+ Simon Fraser University (SFU)<br />
+ Taught 10 courses, working with 14 TAs & 720 UG students.
   
-  {Jan 2016-April 2019}: Co-Instructor<br />
-  Simon Fraser University (SFU)<br />
-  Taught 6 courses, working with 5 co-instructors & 805 UG students.  
+ {Jan 2016-April 2019}: Co-Instructor<br />
+ Simon Fraser University (SFU)<br />
+ Taught 6 courses, working with 5 co-instructors & 805 UG students.  
   
-  {April 2015-Jan 2020}: Teaching Assistant<br />
-  Simon Fraser University (SFU)<br />
-  Taught 16 courses, working with 8 instructors & 1661 UG students.
+ {April 2015-Jan 2020}: Teaching Assistant<br />
+ Simon Fraser University (SFU)<br />
+ Taught 16 courses, working with 8 instructors & 1661 UG students.
