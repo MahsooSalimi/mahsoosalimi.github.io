@@ -28,7 +28,7 @@ ML frameworks: TensorFlow, PyTorch, Keras
 Personal Research
 ======
 {May 2020-present}: Founder and CEO, Sentient
-  • Swarm Control of Quadrotor UAVs using Deep Reinforcement Learning
+  • Swarm Control of Quadrotor UAVs using Deep Reinforcement Learning<br />
   • Multispectral Segmentation using Deep Learning
 
 PhD Research
