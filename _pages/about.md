@@ -13,6 +13,6 @@ I believe in collaboration, humility, and forward-thinking in a team for fast-pa
 
 Interests
 ------
-Machine Learning (ML) & Computer Vision (CV)<br /> 
+Machine Learning (ML)<br /> 
+Computer Vision (CV)<br /> 
 Multi-robot Control (Autonomous Navigation, Motion Planning)<br /> 
-Human-Swarm Interaction (HSI)
