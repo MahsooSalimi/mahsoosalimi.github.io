@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mahsoo Salimi"
+title                    : # "Mahsoo Salimi"
 title_separator          : "-"
 name                     : &name "Mahsoo Salimi"
 description              : &description "personal description"
