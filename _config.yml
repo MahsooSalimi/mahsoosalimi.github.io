@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mahsoo Salimi"
-  avatar           : "Profile.jpeg"
+  name             : # "Mahsoo Salimi"
+  avatar           : # "Profile.jpeg"
   bio              : "Pushing the boundaries of AI applications in Robotics"
   location         : "Vancouver, BC"
   employer         :
